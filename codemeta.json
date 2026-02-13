@@ -1,0 +1,35 @@
+{
+  "name": "S-index Real-World Testing and Validation",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub, California Medical Innovations Institute",
+        "type": "Organization"
+      },
+      "familyName": "Patel",
+      "id": "https://orcid.org/0000-0002-0307-262X",
+      "givenName": "Bhavesh",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/data-S-index/s-index-real-world",
+  "dateCreated": "2026-02-01",
+  "description": "As part of the testing and validation of our S-index, we collected the metadata from 49M+ datasets, computed their FAIR scores, collected their citations, identified their mentions, assigned them a research field, calculated their Dataset Index, and computed the S-index of their authors. This repository contains the Jupyter notebook we developed to analyze and visualize all that data. ",
+  "developmentStatus": "active",
+  "isPartOf": "https://github.com/data-S-index/hub",
+  "issueTracker": "https://github.com/data-S-index/s-index-real-world/issues",
+  "keywords": [
+    "S-index",
+    "Data sharing",
+    "Data reuse",
+    "FAIR",
+    "Citations",
+    "Mentions"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "programmingLanguage": [
+    "Jupyter Notebook"
+  ],
+  "type": "SoftwareSourceCode"
+}
