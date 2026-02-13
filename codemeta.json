@@ -31,5 +31,8 @@
   "programmingLanguage": [
     "Jupyter Notebook"
   ],
-  "type": "SoftwareSourceCode"
+  "type": "SoftwareSourceCode",
+  "identifier": "10.5281/zenodo.18636394",
+  "version": "1.0.0",
+  "dateModified": "2026-02-13"
 }
