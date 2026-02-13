@@ -14,7 +14,7 @@
 [license-url]: https://github.com/data-S-index/s-index-real-world/blob/master/LICENSE
 
 ## ℹ️ About
-As part of the testing and validation of our S-index, we collected the metadata from 49M+ datasets, computed their FAIR scores, collected their citations, identified their mentions, assigned them a research field, calculated their Dataset Index, and computed the S-index of their authors. This repository contains the Jupyter notebook we developed to do analyze and visualize all that data. The outputs were included in our NIH S-index Challenge Phase 2 proposal. We refer to the [S-index Hub](https://github.com/data-S-index/hub) for more information about our S-index and the Challenge, and to the [S-index pipeline repository](https://github.com/data-S-index/s-index-pipeline) for more information about the data.
+As part of the testing and validation of our S-index, we collected the metadata from 49M+ datasets, computed their FAIR scores, collected their citations, identified their mentions, assigned them a research field, calculated their Dataset Index, and computed the S-index of their authors. This repository contains the Jupyter notebook we developed to analyze and visualize all that data. The outputs were included in our NIH S-index Challenge Phase 2 proposal. We refer to the [S-index Hub](https://github.com/data-S-index/hub) for more information about our S-index and the Challenge, and to the [S-index pipeline repository](https://github.com/data-S-index/s-index-pipeline) for more information about the data.
 
 ## 🚀 Using the Jupyter notebook
 
