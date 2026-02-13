@@ -6,12 +6,13 @@ authors:
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
-abstract: "As part of the testing and validation of our S-index, we collected
-  the metadata from 49M+ datasets, computed their FAIR scores, collected their
+abstract: >-
+  As part of the testing and validation of our S-index, we collected the
+  metadata from 49M+ datasets, computed their FAIR scores, collected their
   citations, identified their mentions, assigned them a research field,
   calculated their Dataset Index, and computed the S-index of their authors.
   This repository contains the Jupyter notebook we developed to analyze and
-  visualize all that data. "
+  visualize all that data. 
 keywords:
   - S-index
   - Data sharing
@@ -21,3 +22,6 @@ keywords:
   - Mentions
 license: MIT
 repository-code: https://github.com/data-S-index/s-index-real-world
+doi: 10.5281/zenodo.18636394
+date-released: '2026-02-13'
+version: 1.0.0
