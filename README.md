@@ -1,4 +1,4 @@
-# S-index Real-Worl Testing and Validation Results
+# S-index Real-World Testing and Validation Results
 
 **Jupyter notebook with code to analysis the results from our analysis with 49M+ datatasets and 1M+ S-indices**
 
