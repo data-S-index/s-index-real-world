@@ -34,15 +34,15 @@ cd .s-index-real-world
 
 ### Setup conda environment
 ```sh
-$ conda env create -f environment.yml
+conda env create -f environment.yml
 ```
 
 ### Setup kernell for Jupyter lab
 ```sh
-$ conda activate s-index-real-world
-$ conda install ipykernel
-$ ipython kernel install --user --name=s-index-real-world
-$ conda deactivate
+conda activate s-index-real-world
+conda install ipykernel
+ipython kernel install --user --name=s-index-real-world
+conda deactivate
 ```
 ### Download the data
 We have combine all the data into a DuckDB dataset files. Donwload the dataset here, unzip it, and add it to the [input](folder).
