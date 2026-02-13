@@ -1,0 +1,23 @@
+title: S-index Real-World Testing and Validation
+authors:
+  - given-names: Bhavesh
+    family-names: Patel
+    affiliation: FAIR Data Innovations Hub, California Medical Innovations Institute
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+type: software
+abstract: "As part of the testing and validation of our S-index, we collected
+  the metadata from 49M+ datasets, computed their FAIR scores, collected their
+  citations, identified their mentions, assigned them a research field,
+  calculated their Dataset Index, and computed the S-index of their authors.
+  This repository contains the Jupyter notebook we developed to analyze and
+  visualize all that data. "
+keywords:
+  - S-index
+  - Data sharing
+  - Data reuse
+  - FAIR
+  - Citations
+  - Mentions
+license: MIT
+repository-code: https://github.com/data-S-index/s-index-real-world
