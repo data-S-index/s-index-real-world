@@ -5,6 +5,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![DOI][zenodo-badge]][zenodo-doi]
 
 [stars-shield]: https://img.shields.io/github/stars/data-S-index/s-index-real-world.svg?style=flat-square
 [stars-url]: https://github.com/data-S-index/s-index-real-world/stargazers
@@ -12,6 +13,8 @@
 [issues-url]: https://github.com/data-S-index/s-index-real-world/issues
 [license-shield]: https://img.shields.io/github/license/data-S-index/s-index-real-world.svg?style=flat-square
 [license-url]: https://github.com/data-S-index/s-index-real-world/blob/master/LICENSE
+[zenodo-badge]: https://zenodo.org/badge/DOI/10.5281/zenodo.18636394.svg
+[zenodo-doi]: https://doi.org/10.5281/zenodo.18636394
 
 ## ℹ️ About
 As part of the testing and validation of our S-index, we collected the metadata from 49M+ datasets, computed their FAIR scores, collected their citations, identified their mentions, assigned them a research field, calculated their Dataset Index, and computed the S-index of their authors. This repository contains the Jupyter notebook we developed to analyze and visualize all that data. The outputs were included in our NIH S-index Challenge Phase 2 proposal. We refer to the [S-index Hub](https://github.com/data-S-index/hub) for more information about our S-index and the Challenge, and to the [S-index pipeline repository](https://github.com/data-S-index/s-index-pipeline) for more information about the data.
