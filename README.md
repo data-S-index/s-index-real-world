@@ -45,9 +45,9 @@ ipython kernel install --user --name=s-index-real-world
 conda deactivate
 ```
 ### Download the data
-We have combine all the data into a DuckDB dataset files. Donwload the dataset here, unzip it, and add it to the [input](folder).
+We have combine all the data into a DuckDB file (~8GB zip, ~130GB unzipped). Donwload the dataset [here](https://doi.org/10.5281/zenodo.18629105), unzip it, and add the DuckDB file to the [input](folder).
 
-### Launch Jupyter lab
+### Launch Jupyter labf
 Launch Jupyter lab and naviguate to open the main.ipynb file. Make sure to change the kernel to the one created above (e.g., see [here](https://doc.cocalc.com/howto/jupyter-kernel-selection.html#cocalc-s-jupyter-notebook)). 
 
 ## 📦 Inputs/outputs
