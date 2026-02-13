@@ -1,6 +1,6 @@
 # S-index Real-World Testing and Validation Results
 
-**Jupyter notebook with code to analysis the results from our analysis with 49M+ datatasets and 1M+ S-indices**
+**Jupyter notebook with code to analysis the results from our test with 49M+ datatasets and 1M+ S-indices**
 
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
